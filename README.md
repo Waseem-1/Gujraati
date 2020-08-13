@@ -1,2 +1,3 @@
 # Gujraati
-Test repo for gujrati
+
+This is basic php template
